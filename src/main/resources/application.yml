@@ -1,0 +1,10 @@
+server:
+  tomcat:
+    threads:
+      max: 8
+  port: 8008
+
+api:
+  isSandBoxMode: true
+
+
